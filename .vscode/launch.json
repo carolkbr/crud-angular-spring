@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CrudSpringApplication<crud-spring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.carol.crudspring.CrudSpringApplication",
+            "projectName": "crud-spring",
+            "args": ""
+        }
+    ]
+}
